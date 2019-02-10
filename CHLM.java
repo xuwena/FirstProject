@@ -3,6 +3,7 @@ import java.util.Scanner;
 //吃货联盟订餐系统
 public class CHLM {
 	public static void main(String[] args){
+		System.out.print();
 		//数据主题，一组订单信息
 		String[] names = new String[4];//保存定餐人姓名
 		String[] dishMegs = new String[4];//保存所订餐品信息（菜品名和份数）
